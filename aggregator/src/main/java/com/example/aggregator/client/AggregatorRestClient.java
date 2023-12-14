@@ -60,4 +60,5 @@ public class AggregatorRestClient {
                 .collect(Collectors.toList());
     }
 
+
 }
